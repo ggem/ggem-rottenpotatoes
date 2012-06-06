@@ -5,6 +5,7 @@ db/schema.rb
 log/
 db/*.sqlite3
 tmp/
+.project
 
 # bundler state
 /.bundle
